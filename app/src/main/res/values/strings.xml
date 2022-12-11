@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Merchant Screen</string>
+    <string name="bname">Book Name</string>
+    <string name="auth_name">Author Name</string>
+    <string name="orders">orders</string>
+    <string name="view">view</string>
+    <string name="add">add</string>
+    <string name="Done">Done</string>
+    <string name="add_book">Add book</string>
+    <string name="cancel">Cancel</string>
+    <string name="price">Price</string>
+    <string name="add_image">Add image</string>
+    <string name="rs">₹</string>
+    <string name="below100">Below 100</string>
+    <string name="above300">Above 300</string>
+    <string name="r100_300">100-300</string>
+    <string name="booklist">Book List</string>
+    <string name="filter">Filter</string>
+    <string name="order">Total Orders</string>
+    <string name="no_order">No orders yet</string>
+    <string name="quantity">Quantity:</string>
+</resources>
